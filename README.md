@@ -33,7 +33,6 @@ Além da lógica da aplicação, também houve uma preocupação com a construç
 🖥️ Preview
 <div align="center">
 
-Adicione aqui uma imagem ou GIF do projeto 👇
 
 /assets/preview.png
 </div>
